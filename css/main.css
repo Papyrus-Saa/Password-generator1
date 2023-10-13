@@ -80,6 +80,12 @@ body {
   accent-color: var(--accent-color);
 }
 
+.checkbox-text {
+ display: flex;
+ justify-content: flex-start;
+ align-items: center;
+}
+
 .button {
   border: none;
   background-color: var(--cta-color);
