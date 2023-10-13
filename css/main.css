@@ -91,10 +91,11 @@ body {
   background-color: var(--cta-color);
   box-shadow: 0 4px 4px var(--primary-shadow);
   font-size: 1rem;
-  letter-spacing: 4px;
+  letter-spacing: 2px;
   cursor: pointer;
   transition: trasform 0.2s, background-color 0.2s;
   color: var(--text-color);
+  
 }
 
 .button-disabled {
